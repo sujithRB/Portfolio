@@ -228,6 +228,18 @@ contact.html
 
 ## OUTPUT
 
+<img width="1536" height="1024" alt="imag 1" src="https://github.com/user-attachments/assets/251e0e1b-1cae-4a21-8b8c-a1977dc04b9c" />
+
+
+![Uploading img2.png…]()
+
+
+
+
+
+
+
+
 
 
 
