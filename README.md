@@ -76,7 +76,7 @@ home.html
     
 
 <p>
-Hello! I am Atchaya.
+Hello! I am sujith.
 </p>
 <p>
 I am a student studying in Saveetha Engineering College second year in the department of Information Technology.
@@ -215,7 +215,7 @@ contact.html
     <p>
         Email: sujith8381@gmail.com <br>
         Phone: 8489883030 <br>
-        linkedin: https://www.linkedin.com/in/atchaya-b-08729032a/
+        
        
        
     </p>
