@@ -215,7 +215,7 @@ contact.html
     <p>
         Email: sujith8381@gmail.com <br>
         Phone: 8489883030 <br>
-        
+        linkedin: https://www.linkedin.com/in/atchaya-b-08729032a/
        
        
     </p>
