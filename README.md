@@ -231,7 +231,8 @@ contact.html
 <img width="1536" height="1024" alt="imag 1" src="https://github.com/user-attachments/assets/251e0e1b-1cae-4a21-8b8c-a1977dc04b9c" />
 
 
-![Uploading img2.png…]()
+<img width="1919" height="1199" alt="img2" src="https://github.com/user-attachments/assets/7a6e9cfc-4299-4d96-b744-798c77e42aaa" />
+
 
 
 
