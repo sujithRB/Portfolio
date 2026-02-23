@@ -235,6 +235,7 @@ contact.html
 
 
 
+<img width="1536" height="1024" alt="imag 3" src="https://github.com/user-attachments/assets/6e043884-252b-424c-94a8-32bbabc6e99d" />
 
 
 
