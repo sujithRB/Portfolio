@@ -227,11 +227,8 @@ contact.html
 
 
 ## OUTPUT
-<img width="1920" height="1200" alt="Screenshot 2026-02-02 084559" src="https://github.com/user-attachments/assets/afe5ac6b-f1e8-401d-8a93-2981022a2ceb" />
-<img width="1919" height="1199" alt="Screenshot 2026-02-02 084657" src="https://github.com/user-attachments/assets/3f2b4c63-2eed-467e-8a92-99b7ad289b11" />
 
 
-<img width="1919" height="1199" alt="Screenshot 2026-02-02 084814" src="https://github.com/user-attachments/assets/c935d827-f6e6-4718-8d21-ad5e52bfebf3" />
 
 
 ## RESULT
